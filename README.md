@@ -1,9 +1,11 @@
 # Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning-Coursera
 This repository contains the assignments for the Coursera course Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.
 
+Check the Quiz Answers [here...](Check the Quiz Answers <a href="https://www.youtube.com/playlist?list=PLMtSwsZ75jcgr_eHo1LtbhS8O0AFcroBC" target="_blank">Here...</a>)
+
 > Either find answers in above files or just copy from below codes..
 
-Check the Quiz Answers <a href="https://www.youtube.com/playlist?list=PLMtSwsZ75jcgr_eHo1LtbhS8O0AFcroBC" target="_blank">Here...</a>
+
 
 # Exercise 1 - House Prices Question
 
