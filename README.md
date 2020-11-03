@@ -3,7 +3,7 @@ This repository contains the assignments for the Coursera course Introduction to
 
 > Either find answers in above files or just copy from below codes..
 
-Check the Quiz Answers <a href="https://www.youtube.com/playlist?list=PLMtSwsZ75jcgr_eHo1LtbhS8O0AFcroBC" style="border:1px solid black;text-decoration:none;color:black;">Here...</a>
+Check the Quiz Answers <a href="https://www.youtube.com/playlist?list=PLMtSwsZ75jcgr_eHo1LtbhS8O0AFcroBC" target="blank">Here...</a>
 
 # Exercise 1 - House Prices Question
 
