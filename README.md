@@ -98,7 +98,7 @@ def train_mnist():
 # Exercise 3
 
 ```python
-GRADED FUNCTION: train_mnist_conv
+# GRADED FUNCTION: train_mnist_conv
 
 def train_mnist_conv():
 
